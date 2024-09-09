@@ -1,6 +1,5 @@
 # Active-Directory
-![FIM](https://github.com/AntObiyan/File-Integrity-Monitoring-/blob/main/FIM%20Flowchart.png)
-
+![FIM](https://raw.githubusercontent.com/AntObiyan/Active-Directory/main/what-is-active-directory%20(1).webp)
 
 
 
