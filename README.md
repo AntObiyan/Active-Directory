@@ -44,4 +44,5 @@ A distribution group is used to create an email list that allows messages to be 
 Lastly, I created a newly onboarded user, specifying the full name, logon name, and a default password. I also selected the option to require a password reset upon the first login. 
 
 
-![Architecture Diagram](https://github.com/AntObiyan/Active-Directory/blob/main/User%20creation%20.png?raw=true) (https://github.com/AntObiyan/Active-Directory/blob/main/Default%20password.png?raw=true)
+![Architecture Diagram](https://github.com/AntObiyan/Active-Directory/blob/main/User%20creation%20.png?raw=true) 
+![Architecture Diagram](https://github.com/AntObiyan/Active-Directory/blob/main/Default%20password.png?raw=true)
